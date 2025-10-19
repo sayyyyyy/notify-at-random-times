@@ -2,6 +2,8 @@
 
 Notify at random times
 
+![イメージ画像](image.png)
+
 ## 概要
 
 登録した内容をランダムな時間に通知するiOSアプリケーションです。
