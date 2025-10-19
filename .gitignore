@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+## Build generated
+build/
+Build/
+DerivedData/
+
+## User-specific settings
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
